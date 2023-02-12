@@ -1,0 +1,24 @@
+{
+    "cities": [
+        {
+            "name": "Milan",
+            "lat": 45.4642,
+            "lng": 9.1900
+        },
+        {
+            "name": "New York",
+            "lat": 40.7128,
+            "lng": 74.0060
+        },
+        {
+            "name": "Moscow",
+            "lat": 55.7558,
+            "lng": 37.6173
+        },
+        {
+            "name": "Barcelona",
+            "lat": 41.3874,
+            "lng": 2.1686
+        }
+    ]
+}
